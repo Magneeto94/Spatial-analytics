@@ -1,6 +1,6 @@
 
 1. Download the repository from github to your own worker02, by using: git clone https://github.com/Magneeto94/Visual-analytics_EmilBT.git
-<br>
+</br>
 
 2. Navigate to the folder called Assignment3 that you just downloaded. (cd Assignment3)
 <br>
